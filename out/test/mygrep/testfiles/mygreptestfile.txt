@@ -1,3 +1,0 @@
-This is Test file for mygrep functionality.
-This test file contains test sentences.
-This is Hello World !
